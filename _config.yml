@@ -1,7 +1,8 @@
 theme: jekyll-theme-merlot
 title: '股票每日杂谈'
-description: '记录每天操作股票的心得'
-keyword: '这里是测试'
-author: '股票每日杂谈1'
-nickname: '股票每日杂谈2'
-bio: '独立思考'
+description: '记录每天操作的股票'
+keyword: '股票，操作 ， 记录'
+author: '龙游九天'
+nickname: '龙游九天'
+bio: '独立思考，果断割肉'
+avatar: '/favicon.ico'
